@@ -1,0 +1,77 @@
+\hypersetup{
+  pdfauthor={Бурлаков В.С.}, % Автор
+  pdftitle={T5FGA: T5 For Gaming Applications}, % Заголовок
+  pdfsubject={Выпускная квалификационная работа}
+}
+
+\onehalfspacing
+% \usepackage{caption}
+% \usepackage{xcolor}
+% \usepackage{float}
+
+% \usepackage{listings}
+
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+\lstloadlanguages{Python}
+\lstset{
+  language=Python,
+  keywordstyle={\bfseries \color{blue}},
+  captionpos=b,
+  tabsize=4,
+  basicstyle=\footnotesize,
+  breaklines=true,
+  breakatwhitespace=true,
+  extendedchars=true,
+  backgroundcolor=\color{white},
+  commentstyle=\color{mygreen},
+  escapeinside={\%*}{*)},
+  morekeywords={
+      self, required, from, import,
+      def, return, if, else, elif,
+      for, in, while, True, False,
+      None, with, as, try, except,
+      finally, class, pass, break,
+      continue, lambda, yield, assert,
+      async, await, nonlocal, global,
+      del, not, or, and, is, in,
+      not in, is not, True, False, None,
+      set_format, save, batch_encode_plus,
+      train, evaluate, load_data
+    },
+  stringstyle=\color{mymauve}
+}
+
+% \usepackage{graphicx}
+\graphicspath{ {./figures/} }
+
+% Параметры названия для иллюстраций (Рисунок 1 - <название>)
+\DeclareCaptionLabelFormat{PictureCaptionFormat}{Рисунок {#2}}
+\captionsetup[figure] {
+  labelformat=PictureCaptionFormat,
+  skip=0pt,
+  format=hang,
+  justification=raggedright,
+  labelsep=endash
+}
+
+% Параметры названия для таблиц (Таблица 1 - <название>)
+\DeclareCaptionLabelFormat{TableCaptionFormat}{Таблица {#2}}
+\captionsetup[table] {
+  labelformat=TableCaptionFormat,
+  skip=0pt,
+  format=hang,
+  justification=raggedright,
+  singlelinecheck=off,
+  labelsep=endash
+}
+
+\DeclareCaptionLabelFormat{ListingCaptionFormat}{Листинг {#2}}
+\captionsetup[lstinputlisting] {
+  labelformat=ListingCaptionFormat,
+  skip=0pt,
+  format=hang,
+  justification=raggedright,
+  labelsep=endash
+}

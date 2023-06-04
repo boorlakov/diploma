@@ -1,0 +1,22 @@
+## Core latex/pdflatex auxiliary files:
+**/*.aux
+**/*.lof
+**/*.log
+**/*.lot
+**/*.fls
+**/*.out
+**/*.toc
+**/*.fmt
+**/*.fot
+**/*.cb
+**/*.cb2
+**/*.lb
+**/*.pytxcode
+**/*.synctex.gz
+
+# Temp files & dirs
+practice1/
+practice2/
+
+# MacOS specific
+.DS_Store

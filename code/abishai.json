@@ -1,0 +1,230 @@
+[
+    {
+        "Id": 0,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "\"I said, I would speak with you.\"",
+            "\"Hey! I'm talking to you!\""
+        ],
+        "CharacterSpeech": [
+            "This black-scaled reptile towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the creature... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature suddenly sniffs the air, then turns away from you with a strange hiss. It seems to have caught some unpleasant scent. ",
+            "The creature's eyes focus on Annah, then narrow to slits. It opens its mouth, displaying a row of blackened fangs as fire begins to dance around the shoulders and arms of the creature. The heat emanating from it begins to rise.",
+            "The creature roars, then it launches itself at Annah!"
+        ]
+    },
+    {
+        "Id": 1,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "\"I said, I would speak with you.\"",
+            "\"Hey! I'm talking to you!\""
+        ],
+        "CharacterSpeech": [
+            "This black-scaled reptile towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the creature... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature suddenly sniffs the air, then turns away from you with a strange hiss. It seems to have caught some unpleasant scent. ",
+            "The creature's eyes focus on Fall-from-Grace, then narrow to slits. It opens its mouth, displaying a row of blackened fangs as fire begins to dance around the shoulders and arms of the creature. The heat emanating from it begins to rise.",
+            "The creature roars, then it launches itself at Fall-from-Grace!"
+        ]
+    },
+    {
+        "Id": 2,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "\"I said, I would speak with you.\"",
+            "\"Hey! I'm talking to you!\""
+        ],
+        "CharacterSpeech": [
+            "This black-scaled reptile towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the creature... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature suddenly sniffs the air, then turns away from you with a strange hiss. It seems to have caught some unpleasant scent. ",
+            "The creature's eyes focus on Annah, then narrow to slits. It opens its mouth, displaying a row of blackened fangs as fire begins to dance around the shoulders and arms of the creature. The heat emanating from it begins to rise.",
+            "The creature roars, then it launches itself at Annah!"
+        ]
+    },
+    {
+        "Id": 3,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "\"I said, I would speak with you.\"",
+            "\"Hey! I'm talking to you!\""
+        ],
+        "CharacterSpeech": [
+            "This black-scaled reptile towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the creature... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature suddenly sniffs the air, then turns away from you with a strange hiss. It seems to have caught some unpleasant scent. ",
+            "The creature's eyes focus on Fall-from-Grace, then narrow to slits. It opens its mouth, displaying a row of blackened fangs as fire begins to dance around the shoulders and arms of the creature. The heat emanating from it begins to rise.",
+            "The creature roars, then it launches itself at Fall-from-Grace!"
+        ]
+    },
+    {
+        "Id": 4,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "Hiss back."
+        ],
+        "CharacterSpeech": [
+            "This black-scaled reptile towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the creature... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature opens its mouth, displaying a row of blackened fangs. Fire begins to dance around the shoulders and arms of the creature as it gives a long, low hiss.",
+            "The creature roars, then it launches itself at you!"
+        ]
+    },
+    {
+        "Id": 5,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "\"Calm yourself! I just want to talk to you.\"",
+            "\"Uh... what?\"",
+            "\"Just try it, and we'll see whose blood covers the street when we're done.\""
+        ],
+        "CharacterSpeech": [
+            "This black-scaled reptile towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the creature... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature opens its mouth, displaying a row of blackened fangs. Fire begins to dance around the shoulders and arms of the creature as it gives a long, low hiss.",
+            "The creature speaks in a rasping hiss; its voice sounds like two rough stones being scraped together. It hisses for a few moments, its gravelly voice rising and falling.",
+            "The creature snarls. \"NOTHING to sssay to you, do I.\" The fiend's eyes narrow to slits. \"If ssstay, your warm blood will cover the ssstones.\"",
+            "The creature roars, then it launches itself at you!"
+        ]
+    },
+    {
+        "Id": 6,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "\"Calm yourself! I just want to talk to you.\"",
+            "\"Uh... what?\"",
+            "\"I just wanted to ask you some questions...\""
+        ],
+        "CharacterSpeech": [
+            "This black-scaled reptile towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the creature... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature opens its mouth, displaying a row of blackened fangs. Fire begins to dance around the shoulders and arms of the creature as it gives a long, low hiss.",
+            "The creature speaks in a rasping hiss; its voice sounds like two rough stones being scraped together. It hisses for a few moments, its gravelly voice rising and falling.",
+            "The creature snarls. \"NOTHING to sssay to you, do I.\" The fiend's eyes narrow to slits. \"If ssstay, your warm blood will cover the ssstones.\"",
+            "The creature roars, then it launches itself at you!"
+        ]
+    },
+    {
+        "Id": 7,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "\"I said, I would speak with you.\"",
+            "\"Hey! I'm talking to you!\""
+        ],
+        "CharacterSpeech": [
+            "This black-scaled fiend towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the fiend... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature suddenly sniffs the air, then turns away from you with a strange hiss. It seems to have caught some unpleasant scent. ",
+            "The creature's eyes focus on Annah, then narrow to slits. It opens its mouth, displaying a row of blackened fangs as fire begins to dance around the shoulders and arms of the creature. The heat emanating from it begins to rise.",
+            "The creature roars, then it launches itself at Annah!"
+        ]
+    },
+    {
+        "Id": 8,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "\"I said, I would speak with you.\"",
+            "\"Hey! I'm talking to you!\""
+        ],
+        "CharacterSpeech": [
+            "This black-scaled fiend towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the fiend... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature suddenly sniffs the air, then turns away from you with a strange hiss. It seems to have caught some unpleasant scent. ",
+            "The creature's eyes focus on Fall-from-Grace, then narrow to slits. It opens its mouth, displaying a row of blackened fangs as fire begins to dance around the shoulders and arms of the creature. The heat emanating from it begins to rise.",
+            "The creature roars, then it launches itself at Fall-from-Grace!"
+        ]
+    },
+    {
+        "Id": 9,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "\"I said, I would speak with you.\"",
+            "\"Hey! I'm talking to you!\""
+        ],
+        "CharacterSpeech": [
+            "This black-scaled fiend towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the fiend... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature suddenly sniffs the air, then turns away from you with a strange hiss. It seems to have caught some unpleasant scent. ",
+            "The creature's eyes focus on Annah, then narrow to slits. It opens its mouth, displaying a row of blackened fangs as fire begins to dance around the shoulders and arms of the creature. The heat emanating from it begins to rise.",
+            "The creature roars, then it launches itself at Annah!"
+        ]
+    },
+    {
+        "Id": 10,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "\"I said, I would speak with you.\"",
+            "\"Hey! I'm talking to you!\""
+        ],
+        "CharacterSpeech": [
+            "This black-scaled fiend towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the fiend... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature suddenly sniffs the air, then turns away from you with a strange hiss. It seems to have caught some unpleasant scent. ",
+            "The creature's eyes focus on Fall-from-Grace, then narrow to slits. It opens its mouth, displaying a row of blackened fangs as fire begins to dance around the shoulders and arms of the creature. The heat emanating from it begins to rise.",
+            "The creature roars, then it launches itself at Fall-from-Grace!"
+        ]
+    },
+    {
+        "Id": 11,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "Hiss back."
+        ],
+        "CharacterSpeech": [
+            "This black-scaled fiend towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the fiend... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature opens its mouth, displaying a row of blackened fangs. Fire begins to dance around the shoulders and arms of the creature as it gives a long, low hiss.",
+            "The creature roars, then it launches itself at you!"
+        ]
+    },
+    {
+        "Id": 12,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "\"Calm yourself! I just want to talk to you.\"",
+            "\"Uh... what?\"",
+            "\"Just try it, and we'll see whose blood covers the street when we're done.\""
+        ],
+        "CharacterSpeech": [
+            "This black-scaled fiend towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the fiend... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature opens its mouth, displaying a row of blackened fangs. Fire begins to dance around the shoulders and arms of the creature as it gives a long, low hiss.",
+            "The creature speaks in a rasping hiss; its voice sounds like two rough stones being scraped together. It hisses for a few moments, its gravelly voice rising and falling.",
+            "The creature snarls. \"NOTHING to sssay to you, do I.\" The fiend's eyes narrow to slits. \"If ssstay, your warm blood will cover the ssstones.\"",
+            "The creature roars, then it launches itself at you!"
+        ]
+    },
+    {
+        "Id": 13,
+        "HeroSpeech": [
+            "\"Greetings.\"",
+            "\"I would speak with you for a moment.\"",
+            "\"Calm yourself! I just want to talk to you.\"",
+            "\"Uh... what?\"",
+            "\"I just wanted to ask you some questions...\""
+        ],
+        "CharacterSpeech": [
+            "This black-scaled fiend towers to a height of eight feet - its great height, however, is offset by its thin, snake-like frame. A long prehensile tail drags behind it, and its leathery wings are hooked behind its back. A strong vinegary smell emanates from the fiend... as well as a certain amount of heat. It seems to be ignoring you.",
+            "The creature slowly turns its head down to look at you. Its scaled forehead wrinkles into a frown, then it opens its mouth, giving a low, rasping hiss. You notice that the heat radiating from the creature begins to rise.",
+            "The creature opens its mouth, displaying a row of blackened fangs. Fire begins to dance around the shoulders and arms of the creature as it gives a long, low hiss.",
+            "The creature speaks in a rasping hiss; its voice sounds like two rough stones being scraped together. It hisses for a few moments, its gravelly voice rising and falling.",
+            "The creature snarls. \"NOTHING to sssay to you, do I.\" The fiend's eyes narrow to slits. \"If ssstay, your warm blood will cover the ssstones.\"",
+            "The creature roars, then it launches itself at you!"
+        ]
+    }
+]

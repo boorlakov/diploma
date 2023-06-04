@@ -1,0 +1,36 @@
+\documentclass{disser}
+
+\input{settings/packages}
+\input{settings/preamble}
+
+\begin{document}
+
+% \includepdf{assets/title.pdf} % Титульный лист
+
+\tableofcontents % Оглавление
+\thispagestyle{empty}
+
+\addchap{ВВЕДЕНИЕ}
+\input{chapters/1_introduction} % Введение
+
+\chapter{ПОДГОТОВКА ДАТАСЕТА DNDD ДЛЯ ОБУЧЕНИЯ МОДЕЛЕЙ}
+%	\input{disser_tex/state-of-the-art} % Вставить куда-нить!
+\input{chapters/2_chapter1}
+
+\chapter{ОБУЧЕНИЕ МОДЕЛИ}
+\input{chapters/3_chapter2}
+
+\addchap{ЗАКЛЮЧЕНИЕ}
+\input{chapters/conclusion}
+\break
+
+\input{bibliography/references}
+
+\appendix
+\renewcommand{\thechapter}{\Asbuk{chapter}}
+\chapter{ИСХОДНЫЙ КОД ОБРАБОТКИ DNDD}
+\label{app:code}\input{appendices/1_appendix}
+\chapter{ПРИМЕР ДИАЛОГА}
+\label{app:diagogue}\input{appendices/2_appendix}
+
+\end{document}
