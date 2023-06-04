@@ -5,8 +5,6 @@
 	listof=leveldown,
 	chapterentrydots=true,
 	numbers=endperiod,
-	%chapterprefix=true,
-	%draft,
 ]{scrreprt}
 
 \RequirePackage{iftex}
@@ -49,7 +47,6 @@
 
 %%% Настройка шрифтов и заголовков %%%
 \renewcommand{\chapterformat}{\chapapp~\thechapter\autodot\enskip} % Добавляем префиксы для глав и приложений
-%font={\let\@hangfrom\relax}
 \RedeclareSectionCommand[beforeskip=0cm,tocnumwidth=2.5cm,font={\bfseries\Large}]{chapter}
 \RedeclareSectionCommands[font={\bfseries}]{section,subsection}
 \let\raggedchapter\centering % Center all chapterheads
@@ -63,32 +60,21 @@
 \makeatother
 
 \renewcommand\addchaptertocentry[2]{ % Добавляем префиксы для глав в оглавлении
-  \Ifstr{#1}{}{
-    \addtocentrydefault{chapter}{}{#2}
-  }{
-    \addtocentrydefault{chapter}{\chapapp~#1}{#2}
-  }
+	\Ifstr{#1}{}{
+		\addtocentrydefault{chapter}{}{#2}
+	}{
+		\addtocentrydefault{chapter}{\chapapp~#1}{#2}
+	}
 }
 
 \newcommand*{\appendixmore}{ % Добавляем префиксы для приложений в оглавлении
-  \addtocontents{toc}{
-    \RedeclareSectionCommand[tocnumwidth=5.0cm]{chapter}
-  }
+	\addtocontents{toc}{
+		\RedeclareSectionCommand[tocnumwidth=5.0cm]{chapter}
+	}
 }
 
-%%% Библиография %%%
-
-%\usepackage{csquotes}
-%\usepackage[backend=biber,
-%	style=gost-numeric,         % стиль цитирования и библиографии
-%	autolang=other,             % многоязычная библиография
-%	maxbibnames=4,              % Максимальное число авторов в списке литературы.
-%	minbibnames=2,              % Число авторов, отображаемое при сокращении.             
-%]{biblatex}
-
-
 %%% Переопределение именований %%%
-% \addto\captionsrussian{\renewcommand{\abstractname}{АННОТАЦИЯ}}
+\addto\captionsrussian{\renewcommand{\abstractname}{АННОТАЦИЯ}}
 \addto\captionsrussian{\renewcommand{\appendixname}{ПРИЛОЖЕНИЕ}}
 \addto\captionsrussian{\renewcommand{\bibname}{СПИСОК ЛИТЕРАТУРЫ}}
 \addto\captionsrussian{\renewcommand{\chaptername}{ГЛАВА}}
@@ -99,9 +85,5 @@
 \addto\captionsrussian{\renewcommand{\listtablename}{СПИСОК ТАБЛИЦ}}
 \addto\captionsrussian{\renewcommand{\tablename}{Таблица}}
 \addto\captionsrussian{\renewcommand{\lstlistingname}{Листинг}}
-
-%%% Fix for some bug in biblatex %%%
-%\NewBibliographyString{langjapanese} 
-%\NewBibliographyString{fromjapanese}
 
 \endinput
