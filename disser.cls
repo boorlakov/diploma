@@ -20,7 +20,7 @@
 	\RequirePackage[utf8]{inputenc}                   % Кодировка utf8
 \fi
 
-\RequirePackage[english,russian]{babel}                   % загружает пакет многоязыковой вёрстки
+\RequirePackage[english,russian]{babel}               % загружает пакет многоязыковой вёрстки
 
 \RequirePackage[hidelinks, unicode=true, bookmarksnumbered=true]{hyperref}
 \makeatletter
@@ -31,7 +31,7 @@
 \RequirePackage[usenames,dvipsnames,svgnames,table,rgb]{xcolor}
 
 \RequirePackage{indentfirst} % Красная строка
-\setlength{\parindent}{1cm} % Отступ для абзаца
+\setlength{\parindent}{1cm}  % Отступ для абзаца
 \RequirePackage{setspace}
 
 \RequirePackage{tabularx}
