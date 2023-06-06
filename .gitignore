@@ -14,6 +14,7 @@
 **/*.pytxcode
 **/*.synctex.gz
 **/*.synctex*
+main.pdf
 
 # Temp files & dirs
 practice1/
