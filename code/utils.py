@@ -97,5 +97,5 @@ def extract_text(dialogue, default_text):
     return " ".join(extracted_text) if extracted_text else default_text
 
 
-def default_text(speaker):
+def default_text(speaker: str):
     return "Ignore." if speaker == "Player" else "That NPC seems to be ignoring you."

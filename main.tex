@@ -7,29 +7,34 @@
 
 % \includepdf{assets/title.pdf} % Титульный лист
 
-\tableofcontents % Оглавление
+\tableofcontents
 \thispagestyle{empty}
 
 \addchap{ВВЕДЕНИЕ}
 \input{chapters/1_introduction} % Введение
 
+\chapter{ТЕОРЕТИЧЕСКАЯ ЧАСТЬ}
+\input{chapters/2_theory}
+
+\chapter{СБОР ДАННЫХ И СОЗДАНИЕ ДИАЛОГОВОЙ ЧАСТИ ДАТАСЕТА}
+\input{chapters/3_dataset_structure}
+
+\chapter{СИНТЕЗ ОПИСАНИЙ NPC И АНАЛИЗ ДАТАСЕТА}
+\input{chapters/4_description_generation}
+
 \chapter{ПОДГОТОВКА ДАТАСЕТА DNDD ДЛЯ ОБУЧЕНИЯ МОДЕЛЕЙ}
-\input{chapters/2_chapter1}
+\input{chapters/5_dataset_train_preparation}
 
 \chapter{ОБУЧЕНИЕ МОДЕЛИ}
-\input{chapters/3_chapter2}
+\input{chapters/6_model_experiments}
 
 \addchap{ЗАКЛЮЧЕНИЕ}
-\input{chapters/conclusion}
+\input{chapters/7_conclusion}
 \break
 
 \input{bibliography/references}
 
 \appendix
-\renewcommand{\thechapter}{\Asbuk{chapter}}
-\chapter{ИСХОДНЫЙ КОД ОБРАБОТКИ DNDD}
-\label{app:code}\input{appendices/1_appendix}
-\chapter{ПРИМЕР ДИАЛОГА}
-\label{app:diagogue}\input{appendices/2_appendix}
+\input{appendices/appendices}
 
 \end{document}
