@@ -1,4 +1,4 @@
-\ProvidesClass{disser}[2014/10/11 Dissertation Class by Ilya Stupakov]
+\ProvidesClass{thesis}[2023/06/06 Bachelor Thesis Class by Vladimir Burlakov]
 \LoadClass[a4paper,
 	fontsize=14pt,
 	headings=small,
