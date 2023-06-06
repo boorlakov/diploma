@@ -13,6 +13,7 @@
 **/*.lb
 **/*.pytxcode
 **/*.synctex.gz
+**/*.synctex*
 
 # Temp files & dirs
 practice1/
