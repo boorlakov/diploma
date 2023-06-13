@@ -47,7 +47,7 @@
 
 %%% Настройка шрифтов и заголовков %%%
 \renewcommand{\chapterformat}{\chapapp~\thechapter\autodot\enskip} % Добавляем префиксы для глав и приложений
-\RedeclareSectionCommand[beforeskip=0cm,tocnumwidth=2.5cm,font={\bfseries\Large}]{chapter}
+\RedeclareSectionCommand[beforeskip=0cm,tocnumwidth=1cm,font={\bfseries\Large}]{chapter}
 \RedeclareSectionCommands[font={\bfseries}]{section,subsection}
 \let\raggedchapter\centering % Center all chapterheads
 \let\raggedsection\centering % Center all sectionheads
@@ -77,7 +77,7 @@
 \addto\captionsrussian{\renewcommand{\abstractname}{АННОТАЦИЯ}}
 \addto\captionsrussian{\renewcommand{\appendixname}{ПРИЛОЖЕНИЕ}}
 \addto\captionsrussian{\renewcommand{\bibname}{СПИСОК ЛИТЕРАТУРЫ}}
-\addto\captionsrussian{\renewcommand{\chaptername}{ГЛАВА}}
+\addto\captionsrussian{\renewcommand{\chaptername}{}}
 \addto\captionsrussian{\renewcommand{\contentsname}{ОГЛАВЛЕНИЕ}}
 \addto\captionsrussian{\renewcommand{\figurename}{Рисунок}}
 \addto\captionsrussian{\renewcommand{\indexname}{ПРЕДМЕТНЫЙ УКАЗАТЕЛЬ}}
