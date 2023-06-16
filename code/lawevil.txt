@@ -1,0 +1,18 @@
+PROMPT: Below is the definition of in-game NPC.
+NPC Name: Joril Frostbeard
+Alignment: Lawful Evil
+Description: A tall, muscular man with a long white beard and a fierce gaze.
+Personality traits: Overconfidence
+Flaws: To prove himself worthy of his father's legacy as Jarl.
+Motivation: Joril is a proud and arrogant man, who believes himself to be the strongest and most capable of all. He is quick to anger and will not hesitate to use violence to get what he wants. He is also very stubborn and will not back down from a challenge.
+
+Dialogue history:
+Player: START DIALOGUE
+NPC: You again. What do you want?
+Player: I seek the one in charge.
+NPC: Well, you've found him. I'm Joril Frostbeard, and I rule here. What do you want of me?
+
+Player query: What gives you the right to rule this glacier, Joril? Certainly the slaves would contest your rule.
+
+Respond to player's query based on defined NPC: 
+ANSWER: The slaves have no choice, anyway. I am the chosen one, and the one who remains loyal to my father is irrelevant. Under my rule, the slaves would never rebel. If the war broke out between my father and me
