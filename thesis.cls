@@ -78,7 +78,7 @@
 \addto\captionsrussian{\renewcommand{\appendixname}{ПРИЛОЖЕНИЕ}}
 \addto\captionsrussian{\renewcommand{\bibname}{СПИСОК ЛИТЕРАТУРЫ}}
 \addto\captionsrussian{\renewcommand{\chaptername}{}}
-\addto\captionsrussian{\renewcommand{\contentsname}{ОГЛАВЛЕНИЕ}}
+\addto\captionsrussian{\renewcommand{\contentsname}{СОДЕРЖАНИЕ}}
 \addto\captionsrussian{\renewcommand{\figurename}{Рисунок}}
 \addto\captionsrussian{\renewcommand{\indexname}{ПРЕДМЕТНЫЙ УКАЗАТЕЛЬ}}
 \addto\captionsrussian{\renewcommand{\listfigurename}{СПИСОК РИСУНКОВ}}
